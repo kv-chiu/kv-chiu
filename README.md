@@ -19,12 +19,23 @@ Here are some ideas to get you started:
 
 I love using my skills to contribute to open-source projects and explore the world of programming. Here's a glimpse into my profile:
 
-- 🔭 Skills: Python🐍, R📊, Shell Scripting🐚, TypeScript🌐, Java☕, MATLAB🧪
-- 🌱 Interests: Data Mining🧮, AI for Science🧠, Prompt Engineering🤖, Computer Vision👁️, Bioinformatics🧬
+- 🔭 Skills: 
+   - Python 🐍
+   - R 📊
+   - Shell Scripting 🐚
+   - TypeScript 🌐
+   - Java ☕
+   - MATLAB 🧪
+
+- 🌱 Interests: 
+   - Data Mining 🧮
+   - AI for Science 🧠
+   - Prompt Engineering 🤖
+   - Computer Vision 👁️
+   - Bioinformatics 🧬
+
 - 🚀 Currently exploring the realms of machine learning and deep learning.
-- ⚡ Fun fact: When I'm not coding, you can find me indulging in delicious food🍔 or enjoying outdoor activities like skateboarding🛹.
+
+- ⚡ Fun fact: Apart from coding, you can find me indulging in delicious food 🍔 or enjoying outdoor activities like skateboarding 🛹.
 
 Let's connect and collaborate on exciting projects! Feel free to reach out to me. 😊
-
-
-
