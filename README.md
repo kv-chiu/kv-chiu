@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kv-chiu/kv-chiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,25 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey there! 👋
+### 👋 Hello, I'm Kelvin Chiu!
 
-I'm a passionate open-source enthusiast with a strong interest in data mining, AI, prompt engineering, and computer vision. Here's a little bit about me:
+🌍 Open-source enthusiast | 💻 Full-stack Developer
 
-- 🎓 I have experience in various programming languages, including:
-  - Python 🐍
-  - R 📊
-  - Shell scripting 🐚
-  - TypeScript 🌐
-  - Java ☕
-  - MATLAB 🧪
+I love using my skills to contribute to open-source projects and explore the world of programming. Here's a glimpse into my profile:
 
-- 💻 Currently, I'm exploring the exciting world of data mining, applying AI techniques, and working on prompt engineering and computer vision projects.
+- 🔭 Skills: Python🐍, R📊, Shell Scripting🐚, TypeScript🌐, Java☕, MATLAB🧪
+- 🌱 Interests: Data Mining🧮, AI for Science🧠, Prompt Engineering🤖, Computer Vision👁️, Bioinformatics🧬
+- 🚀 Currently exploring the realms of machine learning and deep learning.
+- ⚡ Fun fact: When I'm not coding, you can find me indulging in delicious food🍔 or enjoying outdoor activities like skateboarding🛹.
 
-- 🌱 I enjoy learning and staying up-to-date with the latest advancements in these fields, as they continuously inspire and challenge me.
+Let's connect and collaborate on exciting projects! Feel free to reach out to me. 😊
 
-- 🤝 I'm open to collaborations and always eager to contribute to open-source projects. Let's work together and make a difference!
 
-- ⚡ Fun fact: Apart from coding, I also love hiking and exploring the great outdoors. Nature rejuvenates me and fuels my creativity.
-
-Feel free to connect with me and explore my repositories to learn more about my work and projects. Let's connect and create something amazing! 😄
 
