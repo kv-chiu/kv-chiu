@@ -39,3 +39,5 @@ I love using my skills to contribute to open-source projects and explore the wor
 - ⚡ Fun fact: Apart from coding, you can find me indulging in delicious food 🍔 or enjoying outdoor activities like skateboarding 🛹.
 
 Let's connect and collaborate on exciting projects! Feel free to reach out to me. 😊
+
+![](https://github.com/kv-chiu/kv-chiu/blob/output/github-contribution-grid-snake.svg)
